@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Mystic Guess",
+  "description": "A sophisticated 1-100 number guessing game featuring a connection tester and AI-powered hints from Gemini.",
+  "requestFramePermissions": []
+}
